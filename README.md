@@ -1,0 +1,4 @@
+ExManager
+=========
+
+Expenses management application
